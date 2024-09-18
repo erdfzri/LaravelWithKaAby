@@ -1,0 +1,10 @@
+nav {
+    background-color: rgb(234, 72, 72);
+}
+.navbar-brand img {
+    height: 40px; /* Sesuaikan ukuran logo sesuai kebutuhan */
+    width: auto; /* Agar proporsi logo tetap terjaga */
+}
+.navbar {
+    background-color: transparent;
+}
